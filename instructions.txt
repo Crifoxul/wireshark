@@ -1,0 +1,1 @@
+In this challenge of finding my identity you will have to read the data which is stored I stored in an http site. But I made sure to record my activity in a Wireshark file. Can you answer in comments of the channel crifoxul what is the message I left.
